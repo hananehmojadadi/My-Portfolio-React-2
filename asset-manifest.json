@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/My-Portfolio-React-2/static/css/main.c6b5ec7f.css",
-    "main.js": "/My-Portfolio-React-2/static/js/main.3b566f30.js",
+    "main.css": "/My-Portfolio-React-2/static/css/main.20a7536b.css",
+    "main.js": "/My-Portfolio-React-2/static/js/main.5269c80e.js",
     "static/js/453.e8642950.chunk.js": "/My-Portfolio-React-2/static/js/453.e8642950.chunk.js",
     "static/media/fa-solid-900.woff2": "/My-Portfolio-React-2/static/media/fa-solid-900.f54756da1f3d1b88887f.woff2",
     "static/media/fa-brands-400.woff2": "/My-Portfolio-React-2/static/media/fa-brands-400.1f6bad931d92a0a52c45.woff2",
     "static/media/fa-regular-400.woff2": "/My-Portfolio-React-2/static/media/fa-regular-400.5632c43107f4d3fa4806.woff2",
     "static/media/fa-v4compatibility.woff2": "/My-Portfolio-React-2/static/media/fa-v4compatibility.24fc9d217708cb3f0362.woff2",
     "index.html": "/My-Portfolio-React-2/index.html",
-    "main.c6b5ec7f.css.map": "/My-Portfolio-React-2/static/css/main.c6b5ec7f.css.map",
-    "main.3b566f30.js.map": "/My-Portfolio-React-2/static/js/main.3b566f30.js.map",
+    "main.20a7536b.css.map": "/My-Portfolio-React-2/static/css/main.20a7536b.css.map",
+    "main.5269c80e.js.map": "/My-Portfolio-React-2/static/js/main.5269c80e.js.map",
     "453.e8642950.chunk.js.map": "/My-Portfolio-React-2/static/js/453.e8642950.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6b5ec7f.css",
-    "static/js/main.3b566f30.js"
+    "static/css/main.20a7536b.css",
+    "static/js/main.5269c80e.js"
   ]
 }
